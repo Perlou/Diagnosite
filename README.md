@@ -1,2 +1,6 @@
 # Diagnosite
 Diagnosite
+
+git clone
+
+
